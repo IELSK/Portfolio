@@ -1,6 +1,6 @@
 # Portfolio
 
-Pequeno projeto de um site pessoal com informações de portfólio
+Pequeno projeto de um site pessoal com informações de portfólio. Feito com HTML e CSS puros.
 
 ### O que funciona
 Transição entre as htmls.
