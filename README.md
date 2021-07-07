@@ -1,6 +1,7 @@
 # Portfolio
 
-Pequeno projeto de um site pessoal com informações de portfólio. Feito com HTML e CSS puros.
+Pequeno projeto de um site pessoal com informações de portfólio. Feito com HTML e CSS puros. <br>
+Link do projeto original - <a href="https://github.com/future4code/Pedro-Barbosa/tree/master/semana1/portfolio">https://github.com/future4code/Pedro-Barbosa/tree/master/semana1/portfolio</a>
 
 ### O que funciona
 Transição entre as htmls.
